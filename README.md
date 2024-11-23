@@ -18,7 +18,7 @@
 在正式发布之前，你可以直接将项目克隆到本地使用：
 
 ```bash
-git clone https://github.com/yourusername/YihanResultSaver.git
+git clone https://github.com/YihanYu115/YihanResultSaver.git
 cd YihanResultSaver
 ```
 
