@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: YihanResultSaver
-Version: 0.1.0
+Version: 0.1.1
 Summary: A Python decorator for logging, saving results, and tracking function source code.
 Home-page: https://github.com/YihanYu115/YihanResultSaver.git
 Author: Yihan Yu
@@ -28,17 +28,21 @@ Requires-Dist: numpy>=1.21.0
 
 ## 安装
 
-在正式发布之前，你可以直接将项目克隆到本地使用：
+你可以直接将项目克隆到本地使用：
 
 ```bash
 git clone https://github.com/YihanYu115/YihanResultSaver.git
 cd YihanResultSaver
 ```
 
-将库添加到你的项目中。
+并将库添加到你的项目中。
 
 ```bash
 pip install dist\YihanResultSaver-0.1.0-py3-none-any.whl
+```
+或者直接
+```bash
+pip install YihanResultSaver
 ```
 
 ## 使用方法 

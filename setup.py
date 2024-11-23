@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="YihanResultSaver",  # 库的名称
-    version="0.1.0",  # 版本号
+    version="0.1.1",  # 版本号
     description="A Python decorator for logging, saving results, and tracking function source code.",  # 简短描述
     long_description=open("README.md", encoding="utf-8").read(),  # 长描述
     long_description_content_type="text/markdown",  # 长描述的格式
