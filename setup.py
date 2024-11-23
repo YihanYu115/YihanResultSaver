@@ -13,5 +13,4 @@ setup(
     packages=find_packages(),  # 自动查找子包
     python_requires=">=3.6",  # 支持的 Python 版本
     install_requires=["numpy>=1.21.0"],  # 依赖的库列表
-    packages = find_packages(),
 )

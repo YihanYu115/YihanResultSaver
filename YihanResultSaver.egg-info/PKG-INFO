@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: YihanResultSaver
+Version: 0.1.0
+Summary: A Python decorator for logging, saving results, and tracking function source code.
+Home-page: https://github.com/YihanYu115/YihanResultSaver.git
+Author: Yihan Yu
+Author-email: yihan.yu@iphy.ac.cn
+License: MIT
+Requires-Python: >=3.6
+Description-Content-Type: markdown
+License-File: LICENSE
+Requires-Dist: numpy>=1.21.0
+
 # YihanResultSaver Library
 
 当我们做数值计算时，会面临代码修改次数多，数值结果保存得太多，最后分不清哪个是哪个的问题，不要担心，在你的main函数前加上`YihanResultSaver`修饰器，他会自动帮你保存计算结果、源代码和日志，方便后面查阅
@@ -23,10 +36,6 @@ cd YihanResultSaver
 ```
 
 将库添加到你的项目中。
-
-```bash
-pip install dist\YihanResultSaver-0.1.0-py3-none-any.whl
-```
 
 ## 使用方法 
 
@@ -70,9 +79,6 @@ Results/
 - `result.npy`：函数返回值保存为 `.npy` 文件。
  
 - `stdout.txt`：标准输出日志文件。
-
-效果截图
-![alt text](image.png)
 
 
 ---

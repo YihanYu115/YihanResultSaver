@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+YihanResultSaver/YihanResultSaver.py
+YihanResultSaver/__init__.py
+YihanResultSaver.egg-info/PKG-INFO
+YihanResultSaver.egg-info/SOURCES.txt
+YihanResultSaver.egg-info/dependency_links.txt
+YihanResultSaver.egg-info/requires.txt
+YihanResultSaver.egg-info/top_level.txt
