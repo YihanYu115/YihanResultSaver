@@ -15,17 +15,21 @@
 
 ## 安装
 
-在正式发布之前，你可以直接将项目克隆到本地使用：
+你可以直接将项目克隆到本地使用：
 
 ```bash
 git clone https://github.com/YihanYu115/YihanResultSaver.git
 cd YihanResultSaver
 ```
 
-将库添加到你的项目中。
+并将库添加到你的项目中。
 
 ```bash
 pip install dist\YihanResultSaver-0.1.0-py3-none-any.whl
+```
+或者直接
+```bash
+pip install YihanResultSaver
 ```
 
 ## 使用方法 
