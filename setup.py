@@ -5,7 +5,7 @@ setup(
     version="0.1.0",  # 版本号
     description="A Python decorator for logging, saving results, and tracking function source code.",  # 简短描述
     long_description=open("README.md", encoding="utf-8").read(),  # 长描述
-    long_description_content_type="markdown",  # 长描述的格式
+    long_description_content_type="text/markdown",  # 长描述的格式
     author="Yihan Yu",  # 作者
     author_email="yihan.yu@iphy.ac.cn",  # 作者邮箱
     url="https://github.com/YihanYu115/YihanResultSaver.git",  # 项目主页
