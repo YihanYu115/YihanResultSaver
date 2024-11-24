@@ -25,7 +25,7 @@ cd YihanResultSaver
 并将库添加到你的项目中。
 
 ```bash
-pip install dist\YihanResultSaver-0.1.0-py3-none-any.whl
+pip install dist\YihanResultSaver-0.1.1-py3-none-any.whl
 ```
 或者直接
 ```bash
